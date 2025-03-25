@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        serverAddr: 127.0.0.1:8848
+      config:
+        import-check:
+          enabled: false
