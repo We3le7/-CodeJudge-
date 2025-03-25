@@ -1,2 +1,2 @@
-# WOJ
-码判官（CodeJudge）-OnlineJudge
+# CodeJudge
+码判官（CodeJudge）-OnlineJudge微服务版本
